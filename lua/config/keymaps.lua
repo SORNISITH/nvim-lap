@@ -5,3 +5,4 @@
 local key = LazyVim.safe_keymap_set
 
 key("n", "<C-a>", "gg<S-v>G")
+vim.api.nvim_set_keymap("n", ";", ":", { noremap = true, silent = false })

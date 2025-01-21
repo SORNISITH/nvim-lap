@@ -37,6 +37,7 @@ vim.opt.hlsearch = true
 vim.opt.backup = false
 vim.opt.showcmd = true
 vim.opt.cmdheight = 1
+vim.opt.smoothscroll = true -- Enable smooth scrolling
 vim.opt.laststatus = 3
 vim.opt.expandtab = true
 vim.opt.scrolloff = 10

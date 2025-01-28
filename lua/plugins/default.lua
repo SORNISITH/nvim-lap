@@ -1,5 +1,4 @@
 return {
-
   ---cmp
   {
     "hrsh7th/nvim-cmp",

@@ -13,6 +13,8 @@
     "lazyvim.plugins.extras.lang.tailwind",
     "lazyvim.plugins.extras.lang.toml",
     "lazyvim.plugins.extras.lang.typescript",
+    "lazyvim.plugins.extras.lang.vue",
+    "lazyvim.plugins.extras.lang.yaml",
     "lazyvim.plugins.extras.lsp.none-ls",
     "lazyvim.plugins.extras.ui.alpha",
     "lazyvim.plugins.extras.ui.mini-indentscope",
@@ -21,8 +23,9 @@
     "lazyvim.plugins.extras.util.startuptime",
     "lazyvim.plugins.extras.vscode"
   ],
+  "install_version": 7,
   "news": {
     "NEWS.md": "10960"
   },
-  "version": 7
+  "version": 8
 }

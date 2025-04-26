@@ -8,6 +8,7 @@ return {
       "cmakelint",
       "emmet-language-server",
       "clangd",
+      "vue-language-server",
     },
   },
 }

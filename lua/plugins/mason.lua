@@ -9,6 +9,10 @@ return {
       "emmet-language-server",
       "clangd",
       "vue-language-server",
+      "rustfmt",
+      "rust-analyzer",
+      "html-lsp",
+      "css-lsp",
     },
   },
 }
